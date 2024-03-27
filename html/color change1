@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="css/style.css">
+    <title>私の紹介</title>
+  </head>
+  
+  <body>
+    <h1>つぶ</h1>
+    <p>
+      <img src="capyzou.png" alt="顔写真">
+    </p>
+    <p>
+      Webの勉強をしてます。<br>
+      気軽にフォローしてください！！
+    </p>
+    <ul>
+      <li><a href="#">Capitter</a></li>
+      <li><a href="#">Capistagram</a></li>
+      <li><a href="#">Capybook</a></li>
+    </ul>
+  </body>
+</html>
