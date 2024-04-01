@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="utf-8">
+    <title>My work-portfolio</title>
+    <meta name="description" content="テキストテキストテキスト">
+    <meta name="viewport" content="width=device-width,initaial-scale=1">
+    <link rel="icon" href="img (1).zip">
+    <link rel="stylesheet" href="https://unpkg.com/ress/dist/ress.min.css">
+    <link rel="stylesheet" herf="css/style.css">
+</head>
+
+<body>
+    <header id="header">
+    </header>
+
+    <main>
+        <div id="mainvisual">
+        </div>
+
+        <section id="about" class="wrapper">
+        </section>
+
+        <section id="works" class="wrapper">
+        </section>
+
+        <section id="news" class="wrapper">
+        </section>
+
+        <section id="contact" class="wrapper">
+        </section>
+    </main>
+
+</body>
+</html>
+
