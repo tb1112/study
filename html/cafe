@@ -2,12 +2,12 @@
 <html lang="ja">
     <head>
         <meta charset="utf-8">
-        <title>バイクカフェ</title>
+        <title>バイク北川</title>
     </head>
     <body>
 
     <header>
-    <h1>バイクカフェ</h1>
+    <h1>バイク北川</h1>
     <nav>
         <ul>
             <li>HOME</li>
@@ -17,23 +17,39 @@
         </ul>
     </nav>
     </header>
-    <main>
+    <div class="hero-box">
+        <img src="img/mainvisual.jpg" alt="バイク北川のメイン写真">
 
+    </div>
+    <main>
+ <section class="iti">
+    <h2>バイク北川の紹介</h2>
+    <p>バイク好きのオタクが厳選した商品を販売いたします</p>
+ </section>
+
+ <section class="ni">
+    <!--ここは後ほどlist tableタグ変更する-->
+    <h2>MENU</h2>
+    <p>バイクA1 ￥15,000</p>
+    <p>バイクA3 ￥30,800</p>
+    <p>バイクJ1 ￥50,980</p>
+    <p>バイクZ1 ￥120,000</p>
+ </section>
+ <section class="san">
+    <figure>
+        <img src="img/bicycle1.jpg" alt="バイクA3">
+    </figure>
+ </section>
 
     </main>
     <aside>
-
-
+      <h2>infomation</h2>
+      <h3>「インスタグラム」始めました</h3>
+      <figure>
+        <img src="img/bicycle2.jpg" alt="バイクA1">
+      </figure>
+      <a href="#">お問い合わせはこちら</a>
     </aside>
-    <footer>
-
-
-
-    </footer>
+    <footer>@webbaikuku.com</footer>
     </body>
-
-
-
-
-
 </html>
