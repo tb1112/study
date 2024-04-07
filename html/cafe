@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <meta charset="utf-8">
+        <title>バイクカフェ</title>
+    </head>
+    <body>
+
+    <header>
+    <h1>バイクカフェ</h1>
+    <nav>
+        <ul>
+            <li>HOME</li>
+            <li>MENU</li>
+            <li>ACCESS</li>
+            <li>CONTACT</li>
+        </ul>
+    </nav>
+    </header>
+    <main>
+
+
+    </main>
+    <aside>
+
+
+    </aside>
+    <footer>
+
+
+
+    </footer>
+    </body>
+
+
+
+
+
+</html>
