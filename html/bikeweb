@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <title>バイク北川</title>
-<link rel=stylesheet" href="style.css">
+        <link rel="stylesheet" href="style.css">
     </head>
     <body>
 
@@ -20,8 +20,8 @@
     </header>
     <div class="hero-box">
         <img src="img/mainvisual.jpg" alt="バイク北川のメイン写真">
-
     </div>
+
     <main>
  <section class="iti">
     <h2>バイク北川の紹介</h2>
@@ -47,10 +47,10 @@
       <h2>infomation</h2>
       <h3>「インスタグラム」始めました</h3>
       <figure>
-        <img src="img/bicycle2.jpg" alt="バイクA1">
+        <img src="img/bicycle2.jpg" alt="">
       </figure>
-      <a href="#">お問い合わせはこちら</a>
+      <a class="button" href="#">お問い合わせはこちら</a>
     </aside>
-    <footer>@webbaikuku.com</footer>
+    <footer>@webbaikuuuuuu.com</footer>
     </body>
 </html>
