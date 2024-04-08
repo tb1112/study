@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ryokan tb</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>旅館つぶ</h1>
+        <nav>
+            <ul>
+             <li><a href="#">TOP</a></li>
+             <li><a href="#">お食事</a></li>
+             <li><a href="#">ゲストルーム</a></li>
+             <li><a href="#">アクセス</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="ue">
+            <figure>
+                <img src="img/ryokanmain.jpg" alt="旅館入口">
+            </figure>
+
+        </section>
+        <section class="mannaka">
+            <h2>旅館つぶ</h2>
+            <p>リゾートであり伝統の旅館である</p>
+        </section>
+        <section class="sita">
+            <h2>自慢の料理</h2>
+            <p>自然豊かで無添加食材を使用しています</p>
+            <p>サンプルサンプルサンプルサンプル</p>
+            <figure>
+                <img src="img/sioyaki.jpg" alt="料理">
+            </figure>
+        </section>
+    </main>
+    <aside>
+        <h2>従業員からの見どころ写真</h2>
+        <p>インスタグラムはじめました</p>
+        <figure>
+            <img src="img/icon2.png" alt="桜のアイコン">
+        </figure>
+        <a href="" class="btn">ご予約はこちら</a>
+    </aside>
+    <footer>
+        <small>&copy;ryokantb</small>
+    </footer>
+</body>
+</html>
